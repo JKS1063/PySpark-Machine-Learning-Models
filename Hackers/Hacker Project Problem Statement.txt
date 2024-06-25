@@ -1,0 +1,24 @@
+It’s time for you to go to San Francisco to help out a tech startup!
+
+They’ve been recently hacked and need your help finding out about the hackers!
+
+Luckily their forensic engineers have grabbed valuable data about the hacks, including information like session time,locations, 
+wpm typing speed, etc. 
+
+The forensic engineer relates to you what she has been able to figure out so far, she has been able to grab meta-data of each session that the hackers used to connect to their servers. 
+These are the features of the data...
+'Session_Connection_Time': How long the session lasted in minutes
+'Bytes Transferred': Number of MB transferred during session
+'Kali_Trace_Used': Indicates if the hacker was using Kali Linux
+'Servers_Corrupted': Number of server corrupted during the attack
+'Pages_Corrupted': Number of pages illegally accessed
+'Location': Location attack came from (Probably useless because the hackers used VPNs)
+'WPM_Typing_Speed': Their estimated typing speed based on session logs.
+
+The technology firm has 3 potential hackers that perpetrated the attack. 
+They are certain of the first two hackers but they aren't very sure if the third hacker was involved or not. 
+They have requested your help! 
+
+Can you help figure out whether or not the third suspect had anything to do with the attacks, or was it just two hackers? 
+
+
